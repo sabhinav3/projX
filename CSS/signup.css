@@ -1,1 +1,16 @@
-/* dvl/kwvwkbv wr */
+h1{
+  text-align: center;
+  padding-top: 100px;
+}
+
+.sign-in button{
+  display: block;
+  padding: 10px
+}
+
+.para{
+  padding: 50px;
+  text-align: center;
+  font-size: 20px;
+  width: 50%;
+}
